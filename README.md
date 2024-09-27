@@ -1,6 +1,6 @@
 # Client Feedback App
 
-![Client Feedback App](https://ibb.co/pwk0qdC)
+![Client Feedback App](https://cdn.discordapp.com/attachments/961335410389311559/1289359577573359616/image.png?ex=66f8892e&is=66f737ae&hm=b563c810172755d5ffe5b02cc7c424adf922bb33b8f0c798a0ba7a0df06d8578&)
 
 Este é um aplicativo React simples para gerenciar feedback de clientes. Ele permite que os usuários enviem avaliações, que são exibidas em uma lista, juntamente com feedbacks de exemplo.
 
