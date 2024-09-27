@@ -1,0 +1,50 @@
+.feedback-list-container {
+    margin: 20px auto;
+    width: 90%;
+}
+
+.feedback-list {
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 0;
+}
+
+.feedback-item {
+    flex: 0 1 calc(33% - 10px);
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+
+.feedback-item:hover {
+    transform: scale(1.02);
+}
+
+.feedback-item strong {
+    font-size: 1.1em;
+}
+
+.feedback-item p {
+    margin: 5px 0;
+}
+.star-rating {
+    display: inline-flex;
+    margin-left: 10px;
+}
+
+.star {
+    font-size: 1.5em;
+    color: lightgray;
+    cursor: pointer;
+}
+
+.star.filled {
+    color: gold; 
+}
+
+
