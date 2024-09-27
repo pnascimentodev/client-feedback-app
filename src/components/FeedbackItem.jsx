@@ -6,6 +6,7 @@ const FeedbackItem = ({ feedback }) => {
             <p>{feedback}</p>
         </div>
     );
+    
 };
 
 export default FeedbackItem;

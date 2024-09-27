@@ -5,6 +5,7 @@ const FeedbackList = ({ feedbacks }) => {
     if (feedbacks.length === 0) {
         return null;
     }
+    
 
     return (
         <div className="feedback-list-container">

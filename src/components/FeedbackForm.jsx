@@ -103,6 +103,7 @@ const Star = ({ index, rating, handleRating }) => {
             ★
         </span>
     );
+    
 };
 
 export default FeedbackForm;
